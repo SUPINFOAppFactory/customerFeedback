@@ -1,4 +1,4 @@
-# customerFeedbackPlugin ![](https://api.travis-ci.org/BuildFire/customerFeedbackPlugin.svg)
+# customerFeedbackPlugin 
 
 
 ### How to run test cases
